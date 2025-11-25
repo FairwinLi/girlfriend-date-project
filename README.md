@@ -1,7 +1,7 @@
 
-  # Bouquet Assembly Interface
+  # BOUQUET SIMULATOR
 
-  This is a code bundle for Bouquet Assembly Interface. The original project is available at https://www.figma.com/design/hbbBLVetMkEavLnk2O8JDa/Bouquet-Assembly-Interface.
+  This is a code for my Bouquet Assembly.
 
   ## Running the code
 
